@@ -1,0 +1,11 @@
+{
+  "name": "composio_notion",
+  "version": "0.1.0",
+  "description": "Auto-generated Composio toolkit plugin for notion",
+  "tools": [
+    "plugin_tool"
+  ],
+  "dependencies": [
+    "composio"
+  ]
+}

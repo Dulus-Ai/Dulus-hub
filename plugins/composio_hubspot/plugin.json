@@ -1,0 +1,11 @@
+{
+  "name": "composio_hubspot",
+  "version": "0.1.0",
+  "description": "Auto-generated Composio toolkit plugin for hubspot",
+  "tools": [
+    "plugin_tool"
+  ],
+  "dependencies": [
+    "composio"
+  ]
+}
